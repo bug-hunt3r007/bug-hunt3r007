@@ -1,11 +1,11 @@
-[hunt3r007]([bug-hunt3r007/image](https://github.com/bug-hunt3r007/image/blob/main/hunt3r.jpg))
-
-
+![hunt3r007](https://github.com/bug-hunt3r007/image/blob/main/hunt3r.jpg?raw=true)
 **About Me**
+
 Hi there! I'm hunt3r007, a passionate bug hunter, ethical hacker, and penetration tester. My mission is to uncover vulnerabilities, enhance security, 
 and promote anonymity in the digital world through a diverse range of technologies and methods.
 
 **What I Do**
+
 Bug Hunting: Finding and reporting security flaws in software and web applications to help developers fix them before they can be exploited.
 Ethical Hacking: Conducting penetration tests to simulate attacks and identify weaknesses in systems and applications.
 Penetration Testing: Testing the security of systems, networks, and applications to ensure they can withstand real-world attacks.
